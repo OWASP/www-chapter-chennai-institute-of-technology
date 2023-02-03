@@ -9,11 +9,13 @@ meetup-group:
 ---
 
 <!-- a welcome greeting -->
-Welcome to OWASP Chennai Institute Of Technology, We started in the year 2023. Join us in the journey where we build, grow and learn together and spread the world up with the awareness of cybersecurity ,Help building a safe and secure cyberspace starting from our institute.
-//for initial test
-## Welcome
-Include some information here about your chapter
 
+## Welcome
+OWASP Chennai Institute of Technology is a vision and a pulse with tempo to unify the domains precisely shaping our very future. A fusion of expertise, creativity, and innovation with the rhythm of all problems, one solution converging on cybersecurity to solve the world's biggest challenges. This place a power of collaboration in motion is where the impossible becomes possible. 
+
+Gather yourself to embark on our OWASP Chennai Institute of Technology mission to make the digital world a safer place. Unlock a world of opportunities by safeguarding the future with a career in cybersecurity. Never compromise the potential of the dynamic field of cybersecurity. Dive into the world of cybersecurity and make a difference through the deep roots of Web, app and network security with us. 
+
+We Cybersecurity Mavericks walk on the path of independent ideals with a common goal. A bond unbreakable, a team unstoppable building the future, side by side. 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
