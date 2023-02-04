@@ -7,7 +7,7 @@ region: Asia
 meetup-group:
 
 ---
-
+<img src="assets/images/transparantdarktitle.png">
 <!-- a welcome greeting -->
 
 ## Welcome
