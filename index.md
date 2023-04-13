@@ -27,7 +27,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 <img src="assets/events/IntroductionToCybersecByKarthiTheHacker.jpeg">
-### Register At https://cutt.ly/owaspcit-1
-### Falicitator :https://www.instagram.com/karthithehacker/
-### Event Location : CHAPTER DISCORD SERVER https://discord.gg/f2kn45J5Eb
+### Register At [Registration Form](https://cutt.ly/owaspcit-1)
+### Falicitator : [@karthithehacker](https://www.instagram.com/karthithehacker/)
+### Event Location : CHAPTER DISCORD SERVER [discord.gg](https://discord.gg/f2kn45J5Eb)
 
