@@ -30,4 +30,4 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ### Register At [Registration Form](https://cutt.ly/owaspcit-1)
 ### Falicitator : [@karthithehacker](https://www.instagram.com/karthithehacker/)
 ### Event Location : CHAPTER DISCORD SERVER [discord.gg](https://discord.gg/f2kn45J5Eb)
-
+### Event Recording: [youtube.com](https://youtu.be/Zvp6hyZ39Do)
