@@ -23,7 +23,7 @@ tags: example-tag
 ## Design-Team
 * [KS Naveen Shankar](https://www.linkedin.com/in/ks-naveen-shakar-47b738273/)
 * [Sushant V](https://www.linkedin.com/in/sushant-v-cit-14524a258/)
-
+* [Vikraman P](https://www.linkedin.com/in/vikraman-p-4b1a99258)
 ## Social-Media-Team
 * [PRANAVI RETHIKA V S](https://www.linkedin.com/in/pranavi-rethika-v-s-2b13a2257)
 * [Dhetchana ](https://www.linkedin.com/in/dhetchana-u-k-077520257)
