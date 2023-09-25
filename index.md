@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Chennai Institute of Technology
 tags: example-tag
 region: Asia
+country: India
 meetup-group:
 
 ---
